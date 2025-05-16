@@ -1,0 +1,2 @@
+javac QuizApp.java
+java QuizApp
